@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class fastestPath {
+public class FastestPath {
     // private State start;
     private double cost;
     final int SATE_DIST = 1;
